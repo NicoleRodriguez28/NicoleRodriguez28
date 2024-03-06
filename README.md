@@ -21,6 +21,6 @@ I am a graduate researcher, developer, and academic residing in Miami, Florida.
 
 
 ## 📫 How to reach me:
-  (https://www.linkedin.com/in/nicole-rodriguez-0aa111250?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtkRV7%2F0%2FR8qapvCMQxyNGQ%3D%3D "LinkedIn")
+  [LinkedIn](https://www.linkedin.com/in/nicole-rodriguez-0aa111250?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtkRV7%2F0%2FR8qapvCMQxyNGQ%3D%3D)
 
   
