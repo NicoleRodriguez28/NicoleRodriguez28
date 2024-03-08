@@ -9,8 +9,9 @@ I am a graduate researcher, developer, and academic residing in Miami, Florida ð
 - Data mining
 
 ## ðŸŒ± My currently projects include:
-- Analyzing International Debt Statistics: diving into international debt analysis from The World Bank with SQL queries
-- Visualizing Inequities in Life Expectancy: comparing life expectancy across countries and genders with ggplot2
+- Analyzing International Debt Statistics: Diving into international debt analysis from The World Bank with SQL queries
+- TumorSegmentation Computer Vision Project: The project aims to identify tumor regions accurately within Medical Images using advanced techniques
+- Visualizing Inequities in Life Expectancy: Comparing life expectancy across countries and genders with ggplot2
 - Generating Keywords for Google Ads: Auto-generate keywords for a search engine marketing campaign with Python
 - Kidney Stones and Simpson's Paradox: Determine most effective treatment procedures for kidney stone removal with logical expressions
 
