@@ -16,7 +16,7 @@ I am a graduate researcher, developer, and academic residing in Miami, Florida ð
 - Kidney Stones and Simpson's Paradox: Determine most effective treatment procedures for kidney stone removal with logical expressions
 
 ## ðŸ’¡ Tools worked with:
-- Trimmomatic, QUAST, SPAades, SAMtools, BLAST, GSNAP
+- Trimmomatic, QUAST, SPAades, SAMtools, BLAST, GSNAP, R Shiny
 - Programming languages: SQL, R, Bash, Python 
 - Data manipulation: Pandas, Bioconductor, dplyr, tidyr, ggplot2
 
