@@ -5,6 +5,7 @@ I am a graduate researcher, developer, and academic residing in Miami, Florida ð
 - Machine learning
 - Genomic data analysis
 - Data visualization
+- Interactive Web Applications
 - Computer vision
 - Data mining
 
